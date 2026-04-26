@@ -50,7 +50,7 @@ The agent-side counterpart to the Tactics Board. A scout's job in football is to
 
 Chorognomon talks about its analytical objects with a deliberately mixed bag of sports terms (the field of analysis, a campaign's roster, the puck-line below). The mixing is intentional — pure-soccer metaphors slide toward a register the project would rather avoid, and the slight cross-sport vibe keeps things curious rather than tribal.
 
-- **Field** / **Pitch** — the design space under analysis.
+- **Field** — the design space under analysis.
 - **Arena** — a specific scoped region of a field.
 - **Team** — a coalition of humans and agents working together.
 - **Players** — individual participants, human or agent.
